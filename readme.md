@@ -4,12 +4,13 @@ This repository contains tools for collecting and analyzing job vacancy data in 
 
 ## 🗂 Repository Structure
 
-. 
-├── data/ # Sample CSV files with job vacancies 
-├── userfunctions.py # Helper functions for data processing 
-├── parser.ipynb # Vacancy parser using Stepstone.de 
-├── analisys.ipynb # Data analysis and visualization 
-└── README.md
+    .
+    ├── data/             # Sample CSV files with job vacancies
+    ├── userfunctions.py   # Helper functions for data processing
+    ├── parser.ipynb       # Vacancy parser using Stepstone.de
+    ├── analisys.ipynb     # Data analysis and visualization
+    └── README.md
+
 
 
 ## 📋 Requirements
