@@ -1,6 +1,9 @@
 # Job Market Analysis for Data Roles in Germany
 
-This repository contains tools for collecting and analyzing job vacancy data in the fields of Data Science, Data Engineering, and Data Analytics on the German labor market as of May 2025. The project is composed of three main components:
+This repository contains tools for collecting and analyzing job vacancy data in the fields of Data Science, Data Engineering, and Data Analytics on the German labor market as of May 2025. The project is composed of three main components.
+
+[animated presantation](https://www.canva.com/design/DAGmhhPECdw/xUmQccJ-yWj_3aLX_UcmkQ/edit?utm_content=DAGmhhPECdw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ## 🗂 Repository Structure
 
@@ -10,7 +13,6 @@ This repository contains tools for collecting and analyzing job vacancy data in 
     ├── parser.ipynb       # Vacancy parser using Stepstone.de
     ├── analisys.ipynb     # Data analysis and visualization
     └── README.md
-
 
 
 ## 📋 Requirements
@@ -61,6 +63,7 @@ pip install -r requirements.txt
         Stacked bar chart by city and specialization
 
         Comparison of average salaries in the top-10 cities
+
 
 Author: Sergej Kurtasch 
 Contact: sergej.kurtasch@gmail.com 
